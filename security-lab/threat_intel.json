@@ -1,0 +1,15 @@
+[
+  {"source_ip":"203.0.113.45","score":92,"label":"malicious"},
+  {"source_ip":"203.0.113.46","score":98,"label":"malicious"},
+  {"source_ip":"198.51.100.23","score":84,"label":"suspicious"},
+  {"source_ip":"198.51.100.24","score":99,"label":"malicious"},
+  {"source_ip":"192.0.2.77","score":94,"label":"malicious"},
+  {"source_ip":"192.0.2.78","score":88,"label":"suspicious"},
+  {"source_ip":"192.0.2.79","score":81,"label":"suspicious"},
+  {"source_ip":"10.0.0.12","score":8,"label":"benign"},
+  {"source_ip":"10.0.0.15","score":12,"label":"benign"},
+  {"source_ip":"10.0.0.20","score":15,"label":"benign"},
+  {"source_ip":"10.0.0.25","score":10,"label":"benign"},
+  {"source_ip":"203.0.113.90","score":87,"label":"suspicious"},
+  {"source_ip":"192.0.2.90","score":93,"label":"malicious"}
+]
