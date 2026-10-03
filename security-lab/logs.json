@@ -1,15 +1,12 @@
 [
-  {"id":1,"type":"failed_login","source_ip":"203.0.113.45","user":"admin","failed_attempts":27,"window_minutes":5,"label":"attack"},
-  {"id":2,"type":"failed_login","source_ip":"203.0.113.46","user":"root","failed_attempts":45,"window_minutes":5,"label":"attack"},
-  {"id":3,"type":"failed_login","source_ip":"198.51.100.23","user":"admin","failed_attempts":18,"window_minutes":5,"label":"attack"},
-  {"id":4,"type":"failed_login","source_ip":"198.51.100.24","user":"finance","failed_attempts":60,"window_minutes":5,"label":"attack"},
-  {"id":5,"type":"failed_login","source_ip":"192.0.2.77","user":"admin","failed_attempts":33,"window_minutes":5,"label":"attack"},
-  {"id":6,"type":"failed_login","source_ip":"192.0.2.78","user":"test","failed_attempts":22,"window_minutes":5,"label":"attack"},
-  {"id":7,"type":"failed_login","source_ip":"192.0.2.79","user":"admin","failed_attempts":15,"window_minutes":5,"label":"attack"},
-  {"id":8,"type":"failed_login","source_ip":"10.0.0.12","user":"ali","failed_attempts":1,"window_minutes":5,"label":"normal"},
-  {"id":9,"type":"failed_login","source_ip":"10.0.0.15","user":"sara","failed_attempts":2,"window_minutes":5,"label":"normal"},
-  {"id":10,"type":"failed_login","source_ip":"10.0.0.20","user":"umar","failed_attempts":3,"window_minutes":5,"label":"normal"},
-  {"id":11,"type":"failed_login","source_ip":"10.0.0.25","user":"normal_user","failed_attempts":8,"window_minutes":5,"label":"normal"},
-  {"id":12,"type":"failed_login","source_ip":"203.0.113.90","user":"testuser","failed_attempts":12,"window_minutes":5,"label":"attack"},
-  {"id":13,"type":"successful_login","source_ip":"192.0.2.90","user":"admin","failed_attempts":11,"window_minutes":5,"label":"attack"}
+ {"id":1,"type":"failed_login","source_ip":"203.0.113.45","user":"admin","failed_attempts":27,"window_minutes":5,"label":"attack"},
+ {"id":2,"type":"failed_login","source_ip":"203.0.113.46","user":"root","failed_attempts":45,"window_minutes":5,"label":"attack"},
+ {"id":3,"type":"failed_login","source_ip":"198.51.100.23","user":"admin","failed_attempts":18,"window_minutes":5,"label":"attack"},
+ {"id":4,"type":"failed_login","source_ip":"198.51.100.24","user":"finance","failed_attempts":60,"window_minutes":5,"label":"attack"},
+ {"id":5,"type":"failed_login","source_ip":"192.0.2.77","user":"admin","failed_attempts":33,"window_minutes":5,"label":"attack"},
+ {"id":6,"type":"failed_login","source_ip":"192.0.2.78","user":"test","failed_attempts":22,"window_minutes":5,"label":"attack"},
+ {"id":7,"type":"failed_login","source_ip":"192.0.2.79","user":"admin","failed_attempts":15,"window_minutes":5,"label":"attack"},
+ {"id":8,"type":"failed_login","source_ip":"10.0.0.12","user":"ali","failed_attempts":1,"window_minutes":5,"label":"normal"},
+ {"id":9,"type":"failed_login","source_ip":"10.0.0.15","user":"sara","failed_attempts":2,"window_minutes":5,"label":"normal"},
+ {"id":10,"type":"failed_login","source_ip":"10.0.0.20","user":"umar","failed_attempts":3,"window_minutes":5,"label":"normal"}
 ]
